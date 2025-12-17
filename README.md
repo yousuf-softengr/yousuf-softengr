@@ -18,7 +18,7 @@ I'm a Senior Software Engineer with over 7 years of experience specializing in b
 
 ### 📫 How to Reach Me:
 - Email: yousuf.soft.engr@gmail.com
-- LinkedIn: [linkedin.com/in/muhammad-abuyousof](https://linkedin.com/in/muhammad-abuyousof)
+- LinkedIn: [linkedin.com/in/yousuf-softengr](https://linkedin.com/in/yousuf-softengr)
 
 
 ### 🔧 GitHub Stats:
