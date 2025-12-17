@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Hi, I'm Muhammad Abu Yousof
 
-<!--
-**yousuf-softengr/yousuf-softengr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer with over 7 years of experience specializing in building scalable and maintainable enterprise applications using .NET technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- **Languages**: C#, JavaScript, TypeScript
+- **Frameworks**: .NET Core, ASP.NET MVC, Blazor, Entity Framework
+- **Databases**: SQL Server, PostgreSQL, MySQL, Oracle
+- **Cloud**: Azure (App Services, Azure Functions, Blob Storage)
+- **Architecture**: Microservices, Clean Architecture, Event-Driven Design
+- **Tools**: Docker, Kubernetes, Git, CI/CD (GitHub Actions, Azure DevOps)
+- **Other**: Redis, RabbitMQ, Nginx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus:
+- Building enterprise-level Microservices architecture
+- Enhancing cloud-native solutions using **Azure**
+- Contributing to open-source .NET projects
+
+### 📫 How to Reach Me:
+- Email: yousuf.soft.engr@gmail.com
+- LinkedIn: [linkedin.com/in/muhammad-abuyousof](https://linkedin.com/in/muhammad-abuyousof)
+
+
+### 🔧 GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousuf-softengr&layout=compact&theme=radical)](https://github.com/yousuf-softengr)
