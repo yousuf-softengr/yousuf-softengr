@@ -2,6 +2,8 @@
 
 I'm a Senior Software Engineer with over 7 years of experience specializing in building scalable and maintainable enterprise applications using .NET technologies.
 
+🌍 Open to Senior Software Engineer (Remote)
+
 ### 🛠 Tech Stack:
 - **Languages**: C#, JavaScript, TypeScript
 - **Frameworks**: .NET Core, ASP.NET MVC, Blazor, Entity Framework
@@ -10,6 +12,17 @@ I'm a Senior Software Engineer with over 7 years of experience specializing in b
 - **Architecture**: Microservices, Clean Architecture, Event-Driven Design
 - **Tools**: Docker, Kubernetes, Git, CI/CD (GitHub Actions, Azure DevOps)
 - **Other**: Redis, RabbitMQ, Nginx
+
+- ### 🤝 What I Bring to Remote Teams
+- Clear async communication
+- Ownership of backend systems
+- Well-documented, maintainable code
+- Experience working with distributed teams
+
+- ### 🚀 Featured Projects
+- **Enterprise .NET Clean Architecture API**
+- **Azure Microservices with Docker**
+- **Secure Authentication & Authorization**
 
 ### 📈 Current Focus:
 - Building enterprise-level Microservices architecture
