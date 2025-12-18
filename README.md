@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Muhammad Abu Yousof
 
-I'm a Senior Software Engineer with over 7 years of experience specializing in building scalable and maintainable enterprise applications using .NET technologies.
+I'm a Senior Software Engineer with over 11+ years of experience specializing in building scalable and maintainable enterprise applications using .NET technologies.
 
 🌍 Open to Senior Software Engineer (Remote)
 
